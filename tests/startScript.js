@@ -1,1 +1,1 @@
-console.log("I am a Start Script");
+console.log("bloo bloo bloo");
