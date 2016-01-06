@@ -1,0 +1,2 @@
+# Ignore node modules. These can be downloaded from NPM later.
+node_modules

@@ -1,6 +1,36 @@
-console.log(process.argv);
+//console.log(process.argv);
+var fs = require("fs");
 
-//var fs = require("fs");
-//var file = fs.readFileSync(process.argv[0], "utf8");
+var local = fs.readFileSync(process.argv[2], "utf8");
+var remote = fs.readFileSync(process.argv[3], "utf8");
 
-//console.log(file);
+console.log(local);
+console.log(remote);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+var r;
